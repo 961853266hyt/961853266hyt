@@ -2,14 +2,6 @@
 
 # 👋 Hi, I'm Yiteng Hu.
 
-**💼 Freelance Full-Stack Developer**  
-🚀 I help startups and businesses build scalable, high-performance web apps from idea to deployment.
-
----
-## 🌏 Status & Work Preference
-![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square&logo=Handshake&logoColor=white)
-![Remote](https://img.shields.io/badge/Remote-Available-blue?style=flat-square&logo=Zoom&logoColor=white)
-
 ## 🗣 Languages
 ![Native Chinese](https://img.shields.io/badge/Chinese-Native-red?style=flat-square&logo=googletranslate&logoColor=white)
 ![Fluent English](https://img.shields.io/badge/English-Fluent-1E90FF?style=flat-square&logo=googletranslate&logoColor=white)
